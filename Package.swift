@@ -18,7 +18,7 @@ let package = Package(
         .package(url: "https://github.com/tristanhimmelman/ObjectMapper.git", .upToNextMajor(from: "4.1.0")),
         .package(url: "https://github.com/apple/swift-nio-ssl.git", .upToNextMajor(from: "2.0.0")),
         .package(url: "https://github.com/apple/swift-nio.git", .upToNextMajor(from: "2.0.0")),
-        .package(url: "https://github.com/horizontalsystems/HsExtensions.Swift.git", .upToNextMajor(from: "1.0.6")),
+        .package(url: "https://github.com/just-software-dev/HsExtensions.Swift.git", .upToNextMajor(from: "1.0.6")),
     ],
     targets: [
         .target(
